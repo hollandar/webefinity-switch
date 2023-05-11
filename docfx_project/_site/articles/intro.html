@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Introduction </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Introduction ">
+      
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../public/docfx.min.css">
+      <link rel="stylesheet" href="../public/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+      
+      
+      
+      
+      
+
+      <script type="module">
+        import docfx from './../public/main.js'
+        window.docfx = docfx
+        window.MathJax = {
+          options: {
+            processHtmlClass: ['tex2jax_process', 'math']
+          }
+        }
+      </script>
+      <script type="text/javascript" src="../public/docfx.min.js"></script>
+  </head>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../index.html">
+            <img id="logo" class="svg" src="../images/switch.png" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="introduction">Introduction</h1>
+
+<p>Switch is a very simple to configure command line parser.</p>
+<p>Unlike others, it is not opinionated about how you execute your command, or organise your command structure.</p>
+<p>It just parses a command list, and it is intended that is all it will ever do.</p>
+<h1 id="getting-started">Getting Started!</h1>
+<ol>
+<li>Install the switch package onto your project:</li>
+</ol>
+<pre><code class="lang-powershell">dotnet add package Webefinity.Switch
+</code></pre>
+<ol start="2">
+<li>Construct an argument builder.</li>
+</ol>
+<pre><code class="lang-c#">var builder = new ArgumentBuilder();
+</code></pre>
+<ol start="3">
+<li>Add parameters.</li>
+</ol>
+<pre><code class="lang-c#">builder.Add(&quot;param&quot;, 'p').AcceptString().MakeRequired().WithDescription(&quot;A parameter to love.&quot;);
+builder.Add(&quot;help&quot;, '?').AcceptFlag().WithDescription(&quot;Get some help.&quot;);
+</code></pre>
+<ol start="4">
+<li>Build the builder to get back a handler which contains your validated parameters.</li>
+</ol>
+<pre><code class="lang-c#">var handler = builder.Build();
+</code></pre>
+<ol start="5">
+<li>Get your parameters value.</li>
+</ol>
+<pre><code class="lang-c#">var paramValue = handler.GetValue&lt;string&gt;(&quot;param&quot;);
+</code></pre>
+<ol start="6">
+<li>Add in some usage warnings.</li>
+</ol>
+<p>Before getting any parameter values, include the following to show using using Console.Write:</p>
+<pre><code class="lang-c#">if (optionsHandler.GetValue&lt;bool&gt;(&quot;help&quot;) || !optionsHandler.IsValid)
+{
+    optionsHandler.Usage(&quot;My Console App&quot;, &quot;Version 1.0&quot;);
+    return;
+}
+</code></pre>
+<h1 id="the-full-example">The Full Example</h1>
+<pre><code class="lang-c#">// Define our arguments
+var builder = new ArgumentBuilder();
+builder.Add(&quot;param&quot;, 'p').AcceptString().MakeRequired().WithDescription(&quot;A parameter to love.&quot;);
+builder.Add(&quot;help&quot;, '?').AcceptFlag().WithDescription(&quot;Get some help.&quot;);
+
+// Parse arguments from Environment.GetCommandLineArgs()
+var handler = builder.Build();
+
+// If args were not valid, or help was flagged
+if (optionsHandler.GetValue&lt;bool&gt;(&quot;help&quot;) || !optionsHandler.IsValid)
+{
+    optionsHandler.Usage(&quot;My Console App&quot;, &quot;Version 1.0&quot;);
+    return;
+}
+
+// Otherwise use the arguments
+var paramValue = handler.GetValue&lt;string&gt;(&quot;param&quot;);
+Console.Writeline(paramValue);
+
+</code></pre>
+</article>
+
+        <div class="contribution d-print-none">
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+        
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+
+    <footer class="border-top">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
