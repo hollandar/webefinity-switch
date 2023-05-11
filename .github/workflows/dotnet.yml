@@ -37,7 +37,7 @@ jobs:
       run: dotnet test --no-build --verbosity normal
     - run: dotnet tool update -g docfx
     - name: Push NuGet Package
-      run: dotnet nuget push src/Switch/bin/Release/*.nupkg -k ${{ secrets:NUGET_TOKEN }} -s https://api.nuget.org/v3/index.json
+      run: dotnet nuget push src/Switch/bin/Release/*.nupkg -k ${{ secrets.NUGET_TOKEN }} -s https://api.nuget.org/v3/index.json
     - name: Publish
       run: docfx src/Switch.Doc/docfx.json
     - name: Upload artifacts
