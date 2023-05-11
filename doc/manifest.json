@@ -1,0 +1,252 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/CM/outrage/outrage-cl/src/Switch.Doc",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentDecimalProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentDecimalProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentDirectoryProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentDirectoryProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentEnumProvider-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentEnumProvider-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentFilenameProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentFilenameProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentFlagProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentFlagProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentLongProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentLongProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentOption.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentOptionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentOptionExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentStringProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentStringProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentsBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentsBuilder.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ArgumentsHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ArgumentsHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.IValueProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.IValueProvider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.ValidationResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.ValidationResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Webefinity.Switch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Webefinity.Switch.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/argument_types.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/argument_types.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html"
+        },
+        ".json": {
+          "relative_path": "articles/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/switch.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/switch.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/switch_large.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/switch_large.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Namespace Webefinity.Switch
+ </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Namespace Webefinity.Switch
+ ">
+      
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../public/docfx.min.css">
+      <link rel="stylesheet" href="../public/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+      
+      
+      
+      
+      
+
+      <script type="module">
+        import docfx from './../public/main.js'
+        window.docfx = docfx
+        window.MathJax = {
+          options: {
+            processHtmlClass: ['tex2jax_process', 'math']
+          }
+        }
+      </script>
+      <script type="text/javascript" src="../public/docfx.min.js"></script>
+  </head>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="ManagedReference">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../index.html">
+            <img id="logo" class="svg" src="../images/switch.png" alt="">
+            
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="Webefinity.Switch">
+
+  <h1 id="Webefinity_Switch" data-uid="Webefinity.Switch" class="text-break">Namespace Webefinity.Switch
+</h1>
+  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="markdown level0 remarks"></div>
+
+    <h3 id="classes">
+Classes
+</h3>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentDecimalProvider.html">ArgumentDecimalProvider</a></dt>
+      <dd><p>A value provider that captures an unvalidated integer value.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentDirectoryProvider.html">ArgumentDirectoryProvider</a></dt>
+      <dd><p>Ensures that a directory is passed to an argument, and optionally that the directory exists.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentEnumProvider-1.html">ArgumentEnumProvider&lt;TEnum&gt;</a></dt>
+      <dd><p>A value provider that captures a string value and converts it to an enumeration value which is equivalent to that string value.
+Usage provides the string variants of each of your enum values automatically.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentFilenameProvider.html">ArgumentFilenameProvider</a></dt>
+      <dd><p>A value provider that accepts a filename, and optionally validates that the file exists.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentFlagProvider.html">ArgumentFlagProvider</a></dt>
+      <dd><p>A true or false value provider.
+The true default causes this flag to be set if just the flag is passed, without the true or false value trailing it.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentLongProvider.html">ArgumentLongProvider</a></dt>
+      <dd><p>A value provider that captures an unvalidated integer value.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentOption.html">ArgumentOption</a></dt>
+      <dd><p>The ArgumentOption is the definition of an option.
+It can define long and short versions of the flag, as in --long and -s.
+A value provider accepts the string in the field after the flag, and converts it to an appropriate value for the option.
+Once the argument is parsed by the ArgumentHandler, the value provider holds and serves the values of the parsed arguments.</p>
+<p>You can use the fluent extensions to add a varierty of value providers, to mark the option as required, and to mark it as Default.</p>
+<p>A default option can be passed as the first argument on the command line without the flag.  This is a good way to handle commands.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentOptionExtensions.html">ArgumentOptionExtensions</a></dt>
+      <dd><p>Fluid extensions that define value providers for options.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentStringProvider.html">ArgumentStringProvider</a></dt>
+      <dd><p>A value provider that captures an unvalidated string value.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentsBuilder.html">ArgumentsBuilder</a></dt>
+      <dd><p>A fluent builder for setting up options and their value providers.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ArgumentsHandler.html">ArgumentsHandler</a></dt>
+      <dd><p>Validates the arguments according to the list of options.</p>
+</dd>
+    </dl>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.ValidationResult.html">ValidationResult</a></dt>
+      <dd><p>Provides information about the validity of an individual command option, and the entire command line.
+Instances of the ValidationResult are combined by the ArgumentHandler using the Combine method.</p>
+</dd>
+    </dl>
+    <h3 id="interfaces">
+Interfaces
+</h3>
+    <dl class="jumplist">
+      <dt><a class="xref" href="Webefinity.Switch.IValueProvider.html">IValueProvider</a></dt>
+      <dd><p>A value provider is stores and optionally validates the result of a switch when the value is parsed.</p>
+<p>Set is called if an option is matched with the value passed to that option.
+The value can be converted into the target type by the provider, and stored as a nullable object.
+Later, GetValue can be called on the handler to retrieve the typed value of the option as passed.</p>
+<p>You may implement your own value provider and add it to an option and apply it to an option during the build phase using:
+build.Add(&quot;switch&quot;).AddProvider(new MyCustomProvider());</p>
+</dd>
+    </dl>
+
+
+</article>
+
+        <div class="contribution d-print-none">
+        </div>
+
+        
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+
+    <footer class="border-top">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

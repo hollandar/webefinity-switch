@@ -1,0 +1,1276 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Webefinity.Switch
+  name: Webefinity.Switch
+  href: api/Webefinity.Switch.html
+  commentId: N:Webefinity.Switch
+  fullName: Webefinity.Switch
+  nameWithType: Webefinity.Switch
+- uid: Webefinity.Switch.ArgumentDecimalProvider
+  name: ArgumentDecimalProvider
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html
+  commentId: T:Webefinity.Switch.ArgumentDecimalProvider
+  fullName: Webefinity.Switch.ArgumentDecimalProvider
+  nameWithType: ArgumentDecimalProvider
+- uid: Webefinity.Switch.ArgumentDecimalProvider.#ctor(System.Nullable{System.Decimal})
+  name: ArgumentDecimalProvider(decimal?)
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider__ctor_System_Nullable_System_Decimal__
+  commentId: M:Webefinity.Switch.ArgumentDecimalProvider.#ctor(System.Nullable{System.Decimal})
+  name.vb: New(Decimal?)
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.ArgumentDecimalProvider(decimal?)
+  fullName.vb: Webefinity.Switch.ArgumentDecimalProvider.New(Decimal?)
+  nameWithType: ArgumentDecimalProvider.ArgumentDecimalProvider(decimal?)
+  nameWithType.vb: ArgumentDecimalProvider.New(Decimal?)
+- uid: Webefinity.Switch.ArgumentDecimalProvider.#ctor*
+  name: ArgumentDecimalProvider
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentDecimalProvider.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.ArgumentDecimalProvider
+  fullName.vb: Webefinity.Switch.ArgumentDecimalProvider.New
+  nameWithType: ArgumentDecimalProvider.ArgumentDecimalProvider
+  nameWithType.vb: ArgumentDecimalProvider.New
+- uid: Webefinity.Switch.ArgumentDecimalProvider.DefaultValue
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_DefaultValue
+  commentId: P:Webefinity.Switch.ArgumentDecimalProvider.DefaultValue
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.DefaultValue
+  nameWithType: ArgumentDecimalProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentDecimalProvider.DefaultValue*
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_DefaultValue_
+  commentId: Overload:Webefinity.Switch.ArgumentDecimalProvider.DefaultValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.DefaultValue
+  nameWithType: ArgumentDecimalProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentDecimalProvider.Set(System.String)
+  name: Set(string?)
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_Set_System_String_
+  commentId: M:Webefinity.Switch.ArgumentDecimalProvider.Set(System.String)
+  name.vb: Set(String)
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.Set(string?)
+  fullName.vb: Webefinity.Switch.ArgumentDecimalProvider.Set(String)
+  nameWithType: ArgumentDecimalProvider.Set(string?)
+  nameWithType.vb: ArgumentDecimalProvider.Set(String)
+- uid: Webefinity.Switch.ArgumentDecimalProvider.Set*
+  name: Set
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_Set_
+  commentId: Overload:Webefinity.Switch.ArgumentDecimalProvider.Set
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.Set
+  nameWithType: ArgumentDecimalProvider.Set
+- uid: Webefinity.Switch.ArgumentDecimalProvider.Usage(System.Action{System.String})
+  name: Usage(Action<string>)
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_Usage_System_Action_System_String__
+  commentId: M:Webefinity.Switch.ArgumentDecimalProvider.Usage(System.Action{System.String})
+  name.vb: Usage(Action(Of String))
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.Usage(System.Action<string>)
+  fullName.vb: Webefinity.Switch.ArgumentDecimalProvider.Usage(System.Action(Of String))
+  nameWithType: ArgumentDecimalProvider.Usage(Action<string>)
+  nameWithType.vb: ArgumentDecimalProvider.Usage(Action(Of String))
+- uid: Webefinity.Switch.ArgumentDecimalProvider.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_Usage_
+  commentId: Overload:Webefinity.Switch.ArgumentDecimalProvider.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.Usage
+  nameWithType: ArgumentDecimalProvider.Usage
+- uid: Webefinity.Switch.ArgumentDecimalProvider.Value
+  name: Value
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_Value
+  commentId: P:Webefinity.Switch.ArgumentDecimalProvider.Value
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.Value
+  nameWithType: ArgumentDecimalProvider.Value
+- uid: Webefinity.Switch.ArgumentDecimalProvider.Value*
+  name: Value
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_Value_
+  commentId: Overload:Webefinity.Switch.ArgumentDecimalProvider.Value
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.Value
+  nameWithType: ArgumentDecimalProvider.Value
+- uid: Webefinity.Switch.ArgumentDecimalProvider.WasSet
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_WasSet
+  commentId: P:Webefinity.Switch.ArgumentDecimalProvider.WasSet
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.WasSet
+  nameWithType: ArgumentDecimalProvider.WasSet
+- uid: Webefinity.Switch.ArgumentDecimalProvider.WasSet*
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentDecimalProvider.html#Webefinity_Switch_ArgumentDecimalProvider_WasSet_
+  commentId: Overload:Webefinity.Switch.ArgumentDecimalProvider.WasSet
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDecimalProvider.WasSet
+  nameWithType: ArgumentDecimalProvider.WasSet
+- uid: Webefinity.Switch.ArgumentDirectoryProvider
+  name: ArgumentDirectoryProvider
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html
+  commentId: T:Webefinity.Switch.ArgumentDirectoryProvider
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider
+  nameWithType: ArgumentDirectoryProvider
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.#ctor(System.Boolean,System.String)
+  name: ArgumentDirectoryProvider(bool, string?)
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider__ctor_System_Boolean_System_String_
+  commentId: M:Webefinity.Switch.ArgumentDirectoryProvider.#ctor(System.Boolean,System.String)
+  name.vb: New(Boolean, String)
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.ArgumentDirectoryProvider(bool, string?)
+  fullName.vb: Webefinity.Switch.ArgumentDirectoryProvider.New(Boolean, String)
+  nameWithType: ArgumentDirectoryProvider.ArgumentDirectoryProvider(bool, string?)
+  nameWithType.vb: ArgumentDirectoryProvider.New(Boolean, String)
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.#ctor*
+  name: ArgumentDirectoryProvider
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentDirectoryProvider.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.ArgumentDirectoryProvider
+  fullName.vb: Webefinity.Switch.ArgumentDirectoryProvider.New
+  nameWithType: ArgumentDirectoryProvider.ArgumentDirectoryProvider
+  nameWithType.vb: ArgumentDirectoryProvider.New
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.DefaultValue
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_DefaultValue
+  commentId: P:Webefinity.Switch.ArgumentDirectoryProvider.DefaultValue
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.DefaultValue
+  nameWithType: ArgumentDirectoryProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.DefaultValue*
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_DefaultValue_
+  commentId: Overload:Webefinity.Switch.ArgumentDirectoryProvider.DefaultValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.DefaultValue
+  nameWithType: ArgumentDirectoryProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.Set(System.String)
+  name: Set(string?)
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_Set_System_String_
+  commentId: M:Webefinity.Switch.ArgumentDirectoryProvider.Set(System.String)
+  name.vb: Set(String)
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.Set(string?)
+  fullName.vb: Webefinity.Switch.ArgumentDirectoryProvider.Set(String)
+  nameWithType: ArgumentDirectoryProvider.Set(string?)
+  nameWithType.vb: ArgumentDirectoryProvider.Set(String)
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.Set*
+  name: Set
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_Set_
+  commentId: Overload:Webefinity.Switch.ArgumentDirectoryProvider.Set
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.Set
+  nameWithType: ArgumentDirectoryProvider.Set
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.Usage(System.Action{System.String})
+  name: Usage(Action<string>)
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_Usage_System_Action_System_String__
+  commentId: M:Webefinity.Switch.ArgumentDirectoryProvider.Usage(System.Action{System.String})
+  name.vb: Usage(Action(Of String))
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.Usage(System.Action<string>)
+  fullName.vb: Webefinity.Switch.ArgumentDirectoryProvider.Usage(System.Action(Of String))
+  nameWithType: ArgumentDirectoryProvider.Usage(Action<string>)
+  nameWithType.vb: ArgumentDirectoryProvider.Usage(Action(Of String))
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_Usage_
+  commentId: Overload:Webefinity.Switch.ArgumentDirectoryProvider.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.Usage
+  nameWithType: ArgumentDirectoryProvider.Usage
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.Value
+  name: Value
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_Value
+  commentId: P:Webefinity.Switch.ArgumentDirectoryProvider.Value
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.Value
+  nameWithType: ArgumentDirectoryProvider.Value
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.Value*
+  name: Value
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_Value_
+  commentId: Overload:Webefinity.Switch.ArgumentDirectoryProvider.Value
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.Value
+  nameWithType: ArgumentDirectoryProvider.Value
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.WasSet
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_WasSet
+  commentId: P:Webefinity.Switch.ArgumentDirectoryProvider.WasSet
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.WasSet
+  nameWithType: ArgumentDirectoryProvider.WasSet
+- uid: Webefinity.Switch.ArgumentDirectoryProvider.WasSet*
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentDirectoryProvider.html#Webefinity_Switch_ArgumentDirectoryProvider_WasSet_
+  commentId: Overload:Webefinity.Switch.ArgumentDirectoryProvider.WasSet
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentDirectoryProvider.WasSet
+  nameWithType: ArgumentDirectoryProvider.WasSet
+- uid: Webefinity.Switch.ArgumentEnumProvider`1
+  name: ArgumentEnumProvider<TEnum>
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html
+  commentId: T:Webefinity.Switch.ArgumentEnumProvider`1
+  name.vb: ArgumentEnumProvider(Of TEnum)
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum)
+  nameWithType: ArgumentEnumProvider<TEnum>
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum)
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.#ctor(System.Object)
+  name: ArgumentEnumProvider(object?)
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1__ctor_System_Object_
+  commentId: M:Webefinity.Switch.ArgumentEnumProvider`1.#ctor(System.Object)
+  name.vb: New(Object)
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.ArgumentEnumProvider(object?)
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).New(Object)
+  nameWithType: ArgumentEnumProvider<TEnum>.ArgumentEnumProvider(object?)
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).New(Object)
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.#ctor*
+  name: ArgumentEnumProvider
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentEnumProvider`1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.ArgumentEnumProvider
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).New
+  nameWithType: ArgumentEnumProvider<TEnum>.ArgumentEnumProvider
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).New
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.DefaultValue
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_DefaultValue
+  commentId: P:Webefinity.Switch.ArgumentEnumProvider`1.DefaultValue
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.DefaultValue
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).DefaultValue
+  nameWithType: ArgumentEnumProvider<TEnum>.DefaultValue
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).DefaultValue
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.DefaultValue*
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_DefaultValue_
+  commentId: Overload:Webefinity.Switch.ArgumentEnumProvider`1.DefaultValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.DefaultValue
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).DefaultValue
+  nameWithType: ArgumentEnumProvider<TEnum>.DefaultValue
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).DefaultValue
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.Set(System.String)
+  name: Set(string?)
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_Set_System_String_
+  commentId: M:Webefinity.Switch.ArgumentEnumProvider`1.Set(System.String)
+  name.vb: Set(String)
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.Set(string?)
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).Set(String)
+  nameWithType: ArgumentEnumProvider<TEnum>.Set(string?)
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).Set(String)
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.Set*
+  name: Set
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_Set_
+  commentId: Overload:Webefinity.Switch.ArgumentEnumProvider`1.Set
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.Set
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).Set
+  nameWithType: ArgumentEnumProvider<TEnum>.Set
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).Set
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.Usage(System.Action{System.String})
+  name: Usage(Action<string>)
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_Usage_System_Action_System_String__
+  commentId: M:Webefinity.Switch.ArgumentEnumProvider`1.Usage(System.Action{System.String})
+  name.vb: Usage(Action(Of String))
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.Usage(System.Action<string>)
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).Usage(System.Action(Of String))
+  nameWithType: ArgumentEnumProvider<TEnum>.Usage(Action<string>)
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).Usage(Action(Of String))
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_Usage_
+  commentId: Overload:Webefinity.Switch.ArgumentEnumProvider`1.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.Usage
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).Usage
+  nameWithType: ArgumentEnumProvider<TEnum>.Usage
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).Usage
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.Value
+  name: Value
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_Value
+  commentId: P:Webefinity.Switch.ArgumentEnumProvider`1.Value
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.Value
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).Value
+  nameWithType: ArgumentEnumProvider<TEnum>.Value
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).Value
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.Value*
+  name: Value
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_Value_
+  commentId: Overload:Webefinity.Switch.ArgumentEnumProvider`1.Value
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.Value
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).Value
+  nameWithType: ArgumentEnumProvider<TEnum>.Value
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).Value
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.WasSet
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_WasSet
+  commentId: P:Webefinity.Switch.ArgumentEnumProvider`1.WasSet
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.WasSet
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).WasSet
+  nameWithType: ArgumentEnumProvider<TEnum>.WasSet
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).WasSet
+- uid: Webefinity.Switch.ArgumentEnumProvider`1.WasSet*
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentEnumProvider-1.html#Webefinity_Switch_ArgumentEnumProvider_1_WasSet_
+  commentId: Overload:Webefinity.Switch.ArgumentEnumProvider`1.WasSet
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentEnumProvider<TEnum>.WasSet
+  fullName.vb: Webefinity.Switch.ArgumentEnumProvider(Of TEnum).WasSet
+  nameWithType: ArgumentEnumProvider<TEnum>.WasSet
+  nameWithType.vb: ArgumentEnumProvider(Of TEnum).WasSet
+- uid: Webefinity.Switch.ArgumentFilenameProvider
+  name: ArgumentFilenameProvider
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html
+  commentId: T:Webefinity.Switch.ArgumentFilenameProvider
+  fullName: Webefinity.Switch.ArgumentFilenameProvider
+  nameWithType: ArgumentFilenameProvider
+- uid: Webefinity.Switch.ArgumentFilenameProvider.#ctor(System.Boolean,System.String)
+  name: ArgumentFilenameProvider(bool, string?)
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider__ctor_System_Boolean_System_String_
+  commentId: M:Webefinity.Switch.ArgumentFilenameProvider.#ctor(System.Boolean,System.String)
+  name.vb: New(Boolean, String)
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.ArgumentFilenameProvider(bool, string?)
+  fullName.vb: Webefinity.Switch.ArgumentFilenameProvider.New(Boolean, String)
+  nameWithType: ArgumentFilenameProvider.ArgumentFilenameProvider(bool, string?)
+  nameWithType.vb: ArgumentFilenameProvider.New(Boolean, String)
+- uid: Webefinity.Switch.ArgumentFilenameProvider.#ctor*
+  name: ArgumentFilenameProvider
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentFilenameProvider.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.ArgumentFilenameProvider
+  fullName.vb: Webefinity.Switch.ArgumentFilenameProvider.New
+  nameWithType: ArgumentFilenameProvider.ArgumentFilenameProvider
+  nameWithType.vb: ArgumentFilenameProvider.New
+- uid: Webefinity.Switch.ArgumentFilenameProvider.DefaultValue
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_DefaultValue
+  commentId: P:Webefinity.Switch.ArgumentFilenameProvider.DefaultValue
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.DefaultValue
+  nameWithType: ArgumentFilenameProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentFilenameProvider.DefaultValue*
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_DefaultValue_
+  commentId: Overload:Webefinity.Switch.ArgumentFilenameProvider.DefaultValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.DefaultValue
+  nameWithType: ArgumentFilenameProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentFilenameProvider.Set(System.String)
+  name: Set(string?)
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_Set_System_String_
+  commentId: M:Webefinity.Switch.ArgumentFilenameProvider.Set(System.String)
+  name.vb: Set(String)
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.Set(string?)
+  fullName.vb: Webefinity.Switch.ArgumentFilenameProvider.Set(String)
+  nameWithType: ArgumentFilenameProvider.Set(string?)
+  nameWithType.vb: ArgumentFilenameProvider.Set(String)
+- uid: Webefinity.Switch.ArgumentFilenameProvider.Set*
+  name: Set
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_Set_
+  commentId: Overload:Webefinity.Switch.ArgumentFilenameProvider.Set
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.Set
+  nameWithType: ArgumentFilenameProvider.Set
+- uid: Webefinity.Switch.ArgumentFilenameProvider.Usage(System.Action{System.String})
+  name: Usage(Action<string>)
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_Usage_System_Action_System_String__
+  commentId: M:Webefinity.Switch.ArgumentFilenameProvider.Usage(System.Action{System.String})
+  name.vb: Usage(Action(Of String))
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.Usage(System.Action<string>)
+  fullName.vb: Webefinity.Switch.ArgumentFilenameProvider.Usage(System.Action(Of String))
+  nameWithType: ArgumentFilenameProvider.Usage(Action<string>)
+  nameWithType.vb: ArgumentFilenameProvider.Usage(Action(Of String))
+- uid: Webefinity.Switch.ArgumentFilenameProvider.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_Usage_
+  commentId: Overload:Webefinity.Switch.ArgumentFilenameProvider.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.Usage
+  nameWithType: ArgumentFilenameProvider.Usage
+- uid: Webefinity.Switch.ArgumentFilenameProvider.Value
+  name: Value
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_Value
+  commentId: P:Webefinity.Switch.ArgumentFilenameProvider.Value
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.Value
+  nameWithType: ArgumentFilenameProvider.Value
+- uid: Webefinity.Switch.ArgumentFilenameProvider.Value*
+  name: Value
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_Value_
+  commentId: Overload:Webefinity.Switch.ArgumentFilenameProvider.Value
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.Value
+  nameWithType: ArgumentFilenameProvider.Value
+- uid: Webefinity.Switch.ArgumentFilenameProvider.WasSet
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_WasSet
+  commentId: P:Webefinity.Switch.ArgumentFilenameProvider.WasSet
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.WasSet
+  nameWithType: ArgumentFilenameProvider.WasSet
+- uid: Webefinity.Switch.ArgumentFilenameProvider.WasSet*
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentFilenameProvider.html#Webefinity_Switch_ArgumentFilenameProvider_WasSet_
+  commentId: Overload:Webefinity.Switch.ArgumentFilenameProvider.WasSet
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFilenameProvider.WasSet
+  nameWithType: ArgumentFilenameProvider.WasSet
+- uid: Webefinity.Switch.ArgumentFlagProvider
+  name: ArgumentFlagProvider
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html
+  commentId: T:Webefinity.Switch.ArgumentFlagProvider
+  fullName: Webefinity.Switch.ArgumentFlagProvider
+  nameWithType: ArgumentFlagProvider
+- uid: Webefinity.Switch.ArgumentFlagProvider.#ctor(System.Nullable{System.Boolean})
+  name: ArgumentFlagProvider(bool?)
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider__ctor_System_Nullable_System_Boolean__
+  commentId: M:Webefinity.Switch.ArgumentFlagProvider.#ctor(System.Nullable{System.Boolean})
+  name.vb: New(Boolean?)
+  fullName: Webefinity.Switch.ArgumentFlagProvider.ArgumentFlagProvider(bool?)
+  fullName.vb: Webefinity.Switch.ArgumentFlagProvider.New(Boolean?)
+  nameWithType: ArgumentFlagProvider.ArgumentFlagProvider(bool?)
+  nameWithType.vb: ArgumentFlagProvider.New(Boolean?)
+- uid: Webefinity.Switch.ArgumentFlagProvider.#ctor*
+  name: ArgumentFlagProvider
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentFlagProvider.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentFlagProvider.ArgumentFlagProvider
+  fullName.vb: Webefinity.Switch.ArgumentFlagProvider.New
+  nameWithType: ArgumentFlagProvider.ArgumentFlagProvider
+  nameWithType.vb: ArgumentFlagProvider.New
+- uid: Webefinity.Switch.ArgumentFlagProvider.DefaultValue
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_DefaultValue
+  commentId: P:Webefinity.Switch.ArgumentFlagProvider.DefaultValue
+  fullName: Webefinity.Switch.ArgumentFlagProvider.DefaultValue
+  nameWithType: ArgumentFlagProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentFlagProvider.DefaultValue*
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_DefaultValue_
+  commentId: Overload:Webefinity.Switch.ArgumentFlagProvider.DefaultValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFlagProvider.DefaultValue
+  nameWithType: ArgumentFlagProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentFlagProvider.Set(System.String)
+  name: Set(string?)
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_Set_System_String_
+  commentId: M:Webefinity.Switch.ArgumentFlagProvider.Set(System.String)
+  name.vb: Set(String)
+  fullName: Webefinity.Switch.ArgumentFlagProvider.Set(string?)
+  fullName.vb: Webefinity.Switch.ArgumentFlagProvider.Set(String)
+  nameWithType: ArgumentFlagProvider.Set(string?)
+  nameWithType.vb: ArgumentFlagProvider.Set(String)
+- uid: Webefinity.Switch.ArgumentFlagProvider.Set*
+  name: Set
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_Set_
+  commentId: Overload:Webefinity.Switch.ArgumentFlagProvider.Set
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFlagProvider.Set
+  nameWithType: ArgumentFlagProvider.Set
+- uid: Webefinity.Switch.ArgumentFlagProvider.Usage(System.Action{System.String})
+  name: Usage(Action<string>)
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_Usage_System_Action_System_String__
+  commentId: M:Webefinity.Switch.ArgumentFlagProvider.Usage(System.Action{System.String})
+  name.vb: Usage(Action(Of String))
+  fullName: Webefinity.Switch.ArgumentFlagProvider.Usage(System.Action<string>)
+  fullName.vb: Webefinity.Switch.ArgumentFlagProvider.Usage(System.Action(Of String))
+  nameWithType: ArgumentFlagProvider.Usage(Action<string>)
+  nameWithType.vb: ArgumentFlagProvider.Usage(Action(Of String))
+- uid: Webefinity.Switch.ArgumentFlagProvider.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_Usage_
+  commentId: Overload:Webefinity.Switch.ArgumentFlagProvider.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFlagProvider.Usage
+  nameWithType: ArgumentFlagProvider.Usage
+- uid: Webefinity.Switch.ArgumentFlagProvider.Value
+  name: Value
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_Value
+  commentId: P:Webefinity.Switch.ArgumentFlagProvider.Value
+  fullName: Webefinity.Switch.ArgumentFlagProvider.Value
+  nameWithType: ArgumentFlagProvider.Value
+- uid: Webefinity.Switch.ArgumentFlagProvider.Value*
+  name: Value
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_Value_
+  commentId: Overload:Webefinity.Switch.ArgumentFlagProvider.Value
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFlagProvider.Value
+  nameWithType: ArgumentFlagProvider.Value
+- uid: Webefinity.Switch.ArgumentFlagProvider.WasSet
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_WasSet
+  commentId: P:Webefinity.Switch.ArgumentFlagProvider.WasSet
+  fullName: Webefinity.Switch.ArgumentFlagProvider.WasSet
+  nameWithType: ArgumentFlagProvider.WasSet
+- uid: Webefinity.Switch.ArgumentFlagProvider.WasSet*
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentFlagProvider.html#Webefinity_Switch_ArgumentFlagProvider_WasSet_
+  commentId: Overload:Webefinity.Switch.ArgumentFlagProvider.WasSet
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentFlagProvider.WasSet
+  nameWithType: ArgumentFlagProvider.WasSet
+- uid: Webefinity.Switch.ArgumentLongProvider
+  name: ArgumentLongProvider
+  href: api/Webefinity.Switch.ArgumentLongProvider.html
+  commentId: T:Webefinity.Switch.ArgumentLongProvider
+  fullName: Webefinity.Switch.ArgumentLongProvider
+  nameWithType: ArgumentLongProvider
+- uid: Webefinity.Switch.ArgumentLongProvider.#ctor(System.Nullable{System.Int64})
+  name: ArgumentLongProvider(long?)
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider__ctor_System_Nullable_System_Int64__
+  commentId: M:Webefinity.Switch.ArgumentLongProvider.#ctor(System.Nullable{System.Int64})
+  name.vb: New(Long?)
+  fullName: Webefinity.Switch.ArgumentLongProvider.ArgumentLongProvider(long?)
+  fullName.vb: Webefinity.Switch.ArgumentLongProvider.New(Long?)
+  nameWithType: ArgumentLongProvider.ArgumentLongProvider(long?)
+  nameWithType.vb: ArgumentLongProvider.New(Long?)
+- uid: Webefinity.Switch.ArgumentLongProvider.#ctor*
+  name: ArgumentLongProvider
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentLongProvider.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentLongProvider.ArgumentLongProvider
+  fullName.vb: Webefinity.Switch.ArgumentLongProvider.New
+  nameWithType: ArgumentLongProvider.ArgumentLongProvider
+  nameWithType.vb: ArgumentLongProvider.New
+- uid: Webefinity.Switch.ArgumentLongProvider.DefaultValue
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_DefaultValue
+  commentId: P:Webefinity.Switch.ArgumentLongProvider.DefaultValue
+  fullName: Webefinity.Switch.ArgumentLongProvider.DefaultValue
+  nameWithType: ArgumentLongProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentLongProvider.DefaultValue*
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_DefaultValue_
+  commentId: Overload:Webefinity.Switch.ArgumentLongProvider.DefaultValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentLongProvider.DefaultValue
+  nameWithType: ArgumentLongProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentLongProvider.Set(System.String)
+  name: Set(string?)
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_Set_System_String_
+  commentId: M:Webefinity.Switch.ArgumentLongProvider.Set(System.String)
+  name.vb: Set(String)
+  fullName: Webefinity.Switch.ArgumentLongProvider.Set(string?)
+  fullName.vb: Webefinity.Switch.ArgumentLongProvider.Set(String)
+  nameWithType: ArgumentLongProvider.Set(string?)
+  nameWithType.vb: ArgumentLongProvider.Set(String)
+- uid: Webefinity.Switch.ArgumentLongProvider.Set*
+  name: Set
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_Set_
+  commentId: Overload:Webefinity.Switch.ArgumentLongProvider.Set
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentLongProvider.Set
+  nameWithType: ArgumentLongProvider.Set
+- uid: Webefinity.Switch.ArgumentLongProvider.Usage(System.Action{System.String})
+  name: Usage(Action<string>)
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_Usage_System_Action_System_String__
+  commentId: M:Webefinity.Switch.ArgumentLongProvider.Usage(System.Action{System.String})
+  name.vb: Usage(Action(Of String))
+  fullName: Webefinity.Switch.ArgumentLongProvider.Usage(System.Action<string>)
+  fullName.vb: Webefinity.Switch.ArgumentLongProvider.Usage(System.Action(Of String))
+  nameWithType: ArgumentLongProvider.Usage(Action<string>)
+  nameWithType.vb: ArgumentLongProvider.Usage(Action(Of String))
+- uid: Webefinity.Switch.ArgumentLongProvider.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_Usage_
+  commentId: Overload:Webefinity.Switch.ArgumentLongProvider.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentLongProvider.Usage
+  nameWithType: ArgumentLongProvider.Usage
+- uid: Webefinity.Switch.ArgumentLongProvider.Value
+  name: Value
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_Value
+  commentId: P:Webefinity.Switch.ArgumentLongProvider.Value
+  fullName: Webefinity.Switch.ArgumentLongProvider.Value
+  nameWithType: ArgumentLongProvider.Value
+- uid: Webefinity.Switch.ArgumentLongProvider.Value*
+  name: Value
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_Value_
+  commentId: Overload:Webefinity.Switch.ArgumentLongProvider.Value
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentLongProvider.Value
+  nameWithType: ArgumentLongProvider.Value
+- uid: Webefinity.Switch.ArgumentLongProvider.WasSet
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_WasSet
+  commentId: P:Webefinity.Switch.ArgumentLongProvider.WasSet
+  fullName: Webefinity.Switch.ArgumentLongProvider.WasSet
+  nameWithType: ArgumentLongProvider.WasSet
+- uid: Webefinity.Switch.ArgumentLongProvider.WasSet*
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentLongProvider.html#Webefinity_Switch_ArgumentLongProvider_WasSet_
+  commentId: Overload:Webefinity.Switch.ArgumentLongProvider.WasSet
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentLongProvider.WasSet
+  nameWithType: ArgumentLongProvider.WasSet
+- uid: Webefinity.Switch.ArgumentOption
+  name: ArgumentOption
+  href: api/Webefinity.Switch.ArgumentOption.html
+  commentId: T:Webefinity.Switch.ArgumentOption
+  fullName: Webefinity.Switch.ArgumentOption
+  nameWithType: ArgumentOption
+- uid: Webefinity.Switch.ArgumentOption.#ctor(System.String,System.Nullable{System.Char},System.Boolean)
+  name: ArgumentOption(string, char?, bool)
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption__ctor_System_String_System_Nullable_System_Char__System_Boolean_
+  commentId: M:Webefinity.Switch.ArgumentOption.#ctor(System.String,System.Nullable{System.Char},System.Boolean)
+  name.vb: New(String, Char?, Boolean)
+  fullName: Webefinity.Switch.ArgumentOption.ArgumentOption(string, char?, bool)
+  fullName.vb: Webefinity.Switch.ArgumentOption.New(String, Char?, Boolean)
+  nameWithType: ArgumentOption.ArgumentOption(string, char?, bool)
+  nameWithType.vb: ArgumentOption.New(String, Char?, Boolean)
+- uid: Webefinity.Switch.ArgumentOption.#ctor*
+  name: ArgumentOption
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentOption.ArgumentOption
+  fullName.vb: Webefinity.Switch.ArgumentOption.New
+  nameWithType: ArgumentOption.ArgumentOption
+  nameWithType.vb: ArgumentOption.New
+- uid: Webefinity.Switch.ArgumentOption.AddProvider(Webefinity.Switch.IValueProvider)
+  name: AddProvider(IValueProvider)
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_AddProvider_Webefinity_Switch_IValueProvider_
+  commentId: M:Webefinity.Switch.ArgumentOption.AddProvider(Webefinity.Switch.IValueProvider)
+  fullName: Webefinity.Switch.ArgumentOption.AddProvider(Webefinity.Switch.IValueProvider)
+  nameWithType: ArgumentOption.AddProvider(IValueProvider)
+- uid: Webefinity.Switch.ArgumentOption.AddProvider*
+  name: AddProvider
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_AddProvider_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.AddProvider
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.AddProvider
+  nameWithType: ArgumentOption.AddProvider
+- uid: Webefinity.Switch.ArgumentOption.Default
+  name: Default
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Default
+  commentId: P:Webefinity.Switch.ArgumentOption.Default
+  fullName: Webefinity.Switch.ArgumentOption.Default
+  nameWithType: ArgumentOption.Default
+- uid: Webefinity.Switch.ArgumentOption.Default*
+  name: Default
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Default_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.Default
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.Default
+  nameWithType: ArgumentOption.Default
+- uid: Webefinity.Switch.ArgumentOption.Description
+  name: Description
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Description
+  commentId: P:Webefinity.Switch.ArgumentOption.Description
+  fullName: Webefinity.Switch.ArgumentOption.Description
+  nameWithType: ArgumentOption.Description
+- uid: Webefinity.Switch.ArgumentOption.Description*
+  name: Description
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Description_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.Description
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.Description
+  nameWithType: ArgumentOption.Description
+- uid: Webefinity.Switch.ArgumentOption.IsMatch(System.String)
+  name: IsMatch(string)
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_IsMatch_System_String_
+  commentId: M:Webefinity.Switch.ArgumentOption.IsMatch(System.String)
+  name.vb: IsMatch(String)
+  fullName: Webefinity.Switch.ArgumentOption.IsMatch(string)
+  fullName.vb: Webefinity.Switch.ArgumentOption.IsMatch(String)
+  nameWithType: ArgumentOption.IsMatch(string)
+  nameWithType.vb: ArgumentOption.IsMatch(String)
+- uid: Webefinity.Switch.ArgumentOption.IsMatch*
+  name: IsMatch
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_IsMatch_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.IsMatch
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.IsMatch
+  nameWithType: ArgumentOption.IsMatch
+- uid: Webefinity.Switch.ArgumentOption.Long
+  name: Long
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Long
+  commentId: P:Webefinity.Switch.ArgumentOption.Long
+  fullName: Webefinity.Switch.ArgumentOption.Long
+  nameWithType: ArgumentOption.Long
+- uid: Webefinity.Switch.ArgumentOption.Long*
+  name: Long
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Long_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.Long
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.Long
+  nameWithType: ArgumentOption.Long
+- uid: Webefinity.Switch.ArgumentOption.MakeRequired
+  name: MakeRequired()
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_MakeRequired
+  commentId: M:Webefinity.Switch.ArgumentOption.MakeRequired
+  fullName: Webefinity.Switch.ArgumentOption.MakeRequired()
+  nameWithType: ArgumentOption.MakeRequired()
+- uid: Webefinity.Switch.ArgumentOption.MakeRequired*
+  name: MakeRequired
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_MakeRequired_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.MakeRequired
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.MakeRequired
+  nameWithType: ArgumentOption.MakeRequired
+- uid: Webefinity.Switch.ArgumentOption.Required
+  name: Required
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Required
+  commentId: P:Webefinity.Switch.ArgumentOption.Required
+  fullName: Webefinity.Switch.ArgumentOption.Required
+  nameWithType: ArgumentOption.Required
+- uid: Webefinity.Switch.ArgumentOption.Required*
+  name: Required
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Required_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.Required
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.Required
+  nameWithType: ArgumentOption.Required
+- uid: Webefinity.Switch.ArgumentOption.Short
+  name: Short
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Short
+  commentId: P:Webefinity.Switch.ArgumentOption.Short
+  fullName: Webefinity.Switch.ArgumentOption.Short
+  nameWithType: ArgumentOption.Short
+- uid: Webefinity.Switch.ArgumentOption.Short*
+  name: Short
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_Short_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.Short
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.Short
+  nameWithType: ArgumentOption.Short
+- uid: Webefinity.Switch.ArgumentOption.ValueProvider
+  name: ValueProvider
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_ValueProvider
+  commentId: P:Webefinity.Switch.ArgumentOption.ValueProvider
+  fullName: Webefinity.Switch.ArgumentOption.ValueProvider
+  nameWithType: ArgumentOption.ValueProvider
+- uid: Webefinity.Switch.ArgumentOption.ValueProvider*
+  name: ValueProvider
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_ValueProvider_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.ValueProvider
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.ValueProvider
+  nameWithType: ArgumentOption.ValueProvider
+- uid: Webefinity.Switch.ArgumentOption.WithDescription(System.String)
+  name: WithDescription(string)
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_WithDescription_System_String_
+  commentId: M:Webefinity.Switch.ArgumentOption.WithDescription(System.String)
+  name.vb: WithDescription(String)
+  fullName: Webefinity.Switch.ArgumentOption.WithDescription(string)
+  fullName.vb: Webefinity.Switch.ArgumentOption.WithDescription(String)
+  nameWithType: ArgumentOption.WithDescription(string)
+  nameWithType.vb: ArgumentOption.WithDescription(String)
+- uid: Webefinity.Switch.ArgumentOption.WithDescription*
+  name: WithDescription
+  href: api/Webefinity.Switch.ArgumentOption.html#Webefinity_Switch_ArgumentOption_WithDescription_
+  commentId: Overload:Webefinity.Switch.ArgumentOption.WithDescription
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOption.WithDescription
+  nameWithType: ArgumentOption.WithDescription
+- uid: Webefinity.Switch.ArgumentOptionExtensions
+  name: ArgumentOptionExtensions
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html
+  commentId: T:Webefinity.Switch.ArgumentOptionExtensions
+  fullName: Webefinity.Switch.ArgumentOptionExtensions
+  nameWithType: ArgumentOptionExtensions
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptDecimal(Webefinity.Switch.ArgumentOption,System.Nullable{System.Decimal})
+  name: AcceptDecimal(ArgumentOption, decimal?)
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptDecimal_Webefinity_Switch_ArgumentOption_System_Nullable_System_Decimal__
+  commentId: M:Webefinity.Switch.ArgumentOptionExtensions.AcceptDecimal(Webefinity.Switch.ArgumentOption,System.Nullable{System.Decimal})
+  name.vb: AcceptDecimal(ArgumentOption, Decimal?)
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptDecimal(Webefinity.Switch.ArgumentOption, decimal?)
+  fullName.vb: Webefinity.Switch.ArgumentOptionExtensions.AcceptDecimal(Webefinity.Switch.ArgumentOption, Decimal?)
+  nameWithType: ArgumentOptionExtensions.AcceptDecimal(ArgumentOption, decimal?)
+  nameWithType.vb: ArgumentOptionExtensions.AcceptDecimal(ArgumentOption, Decimal?)
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptDecimal*
+  name: AcceptDecimal
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptDecimal_
+  commentId: Overload:Webefinity.Switch.ArgumentOptionExtensions.AcceptDecimal
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptDecimal
+  nameWithType: ArgumentOptionExtensions.AcceptDecimal
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptDirectory(Webefinity.Switch.ArgumentOption,System.Boolean,System.String)
+  name: AcceptDirectory(ArgumentOption, bool, string?)
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptDirectory_Webefinity_Switch_ArgumentOption_System_Boolean_System_String_
+  commentId: M:Webefinity.Switch.ArgumentOptionExtensions.AcceptDirectory(Webefinity.Switch.ArgumentOption,System.Boolean,System.String)
+  name.vb: AcceptDirectory(ArgumentOption, Boolean, String)
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptDirectory(Webefinity.Switch.ArgumentOption, bool, string?)
+  fullName.vb: Webefinity.Switch.ArgumentOptionExtensions.AcceptDirectory(Webefinity.Switch.ArgumentOption, Boolean, String)
+  nameWithType: ArgumentOptionExtensions.AcceptDirectory(ArgumentOption, bool, string?)
+  nameWithType.vb: ArgumentOptionExtensions.AcceptDirectory(ArgumentOption, Boolean, String)
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptDirectory*
+  name: AcceptDirectory
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptDirectory_
+  commentId: Overload:Webefinity.Switch.ArgumentOptionExtensions.AcceptDirectory
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptDirectory
+  nameWithType: ArgumentOptionExtensions.AcceptDirectory
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptEnum*
+  name: AcceptEnum
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptEnum_
+  commentId: Overload:Webefinity.Switch.ArgumentOptionExtensions.AcceptEnum
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptEnum
+  nameWithType: ArgumentOptionExtensions.AcceptEnum
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptEnum``1(Webefinity.Switch.ArgumentOption,System.Object)
+  name: AcceptEnum<TEnum>(ArgumentOption, object?)
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptEnum__1_Webefinity_Switch_ArgumentOption_System_Object_
+  commentId: M:Webefinity.Switch.ArgumentOptionExtensions.AcceptEnum``1(Webefinity.Switch.ArgumentOption,System.Object)
+  name.vb: AcceptEnum(Of TEnum)(ArgumentOption, Object)
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptEnum<TEnum>(Webefinity.Switch.ArgumentOption, object?)
+  fullName.vb: Webefinity.Switch.ArgumentOptionExtensions.AcceptEnum(Of TEnum)(Webefinity.Switch.ArgumentOption, Object)
+  nameWithType: ArgumentOptionExtensions.AcceptEnum<TEnum>(ArgumentOption, object?)
+  nameWithType.vb: ArgumentOptionExtensions.AcceptEnum(Of TEnum)(ArgumentOption, Object)
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptFilename(Webefinity.Switch.ArgumentOption,System.Boolean,System.String)
+  name: AcceptFilename(ArgumentOption, bool, string?)
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptFilename_Webefinity_Switch_ArgumentOption_System_Boolean_System_String_
+  commentId: M:Webefinity.Switch.ArgumentOptionExtensions.AcceptFilename(Webefinity.Switch.ArgumentOption,System.Boolean,System.String)
+  name.vb: AcceptFilename(ArgumentOption, Boolean, String)
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptFilename(Webefinity.Switch.ArgumentOption, bool, string?)
+  fullName.vb: Webefinity.Switch.ArgumentOptionExtensions.AcceptFilename(Webefinity.Switch.ArgumentOption, Boolean, String)
+  nameWithType: ArgumentOptionExtensions.AcceptFilename(ArgumentOption, bool, string?)
+  nameWithType.vb: ArgumentOptionExtensions.AcceptFilename(ArgumentOption, Boolean, String)
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptFilename*
+  name: AcceptFilename
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptFilename_
+  commentId: Overload:Webefinity.Switch.ArgumentOptionExtensions.AcceptFilename
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptFilename
+  nameWithType: ArgumentOptionExtensions.AcceptFilename
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptFlag(Webefinity.Switch.ArgumentOption,System.Nullable{System.Boolean})
+  name: AcceptFlag(ArgumentOption, bool?)
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptFlag_Webefinity_Switch_ArgumentOption_System_Nullable_System_Boolean__
+  commentId: M:Webefinity.Switch.ArgumentOptionExtensions.AcceptFlag(Webefinity.Switch.ArgumentOption,System.Nullable{System.Boolean})
+  name.vb: AcceptFlag(ArgumentOption, Boolean?)
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptFlag(Webefinity.Switch.ArgumentOption, bool?)
+  fullName.vb: Webefinity.Switch.ArgumentOptionExtensions.AcceptFlag(Webefinity.Switch.ArgumentOption, Boolean?)
+  nameWithType: ArgumentOptionExtensions.AcceptFlag(ArgumentOption, bool?)
+  nameWithType.vb: ArgumentOptionExtensions.AcceptFlag(ArgumentOption, Boolean?)
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptFlag*
+  name: AcceptFlag
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptFlag_
+  commentId: Overload:Webefinity.Switch.ArgumentOptionExtensions.AcceptFlag
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptFlag
+  nameWithType: ArgumentOptionExtensions.AcceptFlag
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptInteger(Webefinity.Switch.ArgumentOption,System.Nullable{System.Int64})
+  name: AcceptInteger(ArgumentOption, long?)
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptInteger_Webefinity_Switch_ArgumentOption_System_Nullable_System_Int64__
+  commentId: M:Webefinity.Switch.ArgumentOptionExtensions.AcceptInteger(Webefinity.Switch.ArgumentOption,System.Nullable{System.Int64})
+  name.vb: AcceptInteger(ArgumentOption, Long?)
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptInteger(Webefinity.Switch.ArgumentOption, long?)
+  fullName.vb: Webefinity.Switch.ArgumentOptionExtensions.AcceptInteger(Webefinity.Switch.ArgumentOption, Long?)
+  nameWithType: ArgumentOptionExtensions.AcceptInteger(ArgumentOption, long?)
+  nameWithType.vb: ArgumentOptionExtensions.AcceptInteger(ArgumentOption, Long?)
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptInteger*
+  name: AcceptInteger
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptInteger_
+  commentId: Overload:Webefinity.Switch.ArgumentOptionExtensions.AcceptInteger
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptInteger
+  nameWithType: ArgumentOptionExtensions.AcceptInteger
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptString(Webefinity.Switch.ArgumentOption,System.String)
+  name: AcceptString(ArgumentOption, string?)
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptString_Webefinity_Switch_ArgumentOption_System_String_
+  commentId: M:Webefinity.Switch.ArgumentOptionExtensions.AcceptString(Webefinity.Switch.ArgumentOption,System.String)
+  name.vb: AcceptString(ArgumentOption, String)
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptString(Webefinity.Switch.ArgumentOption, string?)
+  fullName.vb: Webefinity.Switch.ArgumentOptionExtensions.AcceptString(Webefinity.Switch.ArgumentOption, String)
+  nameWithType: ArgumentOptionExtensions.AcceptString(ArgumentOption, string?)
+  nameWithType.vb: ArgumentOptionExtensions.AcceptString(ArgumentOption, String)
+- uid: Webefinity.Switch.ArgumentOptionExtensions.AcceptString*
+  name: AcceptString
+  href: api/Webefinity.Switch.ArgumentOptionExtensions.html#Webefinity_Switch_ArgumentOptionExtensions_AcceptString_
+  commentId: Overload:Webefinity.Switch.ArgumentOptionExtensions.AcceptString
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentOptionExtensions.AcceptString
+  nameWithType: ArgumentOptionExtensions.AcceptString
+- uid: Webefinity.Switch.ArgumentsBuilder
+  name: ArgumentsBuilder
+  href: api/Webefinity.Switch.ArgumentsBuilder.html
+  commentId: T:Webefinity.Switch.ArgumentsBuilder
+  fullName: Webefinity.Switch.ArgumentsBuilder
+  nameWithType: ArgumentsBuilder
+- uid: Webefinity.Switch.ArgumentsBuilder.#ctor
+  name: ArgumentsBuilder()
+  href: api/Webefinity.Switch.ArgumentsBuilder.html#Webefinity_Switch_ArgumentsBuilder__ctor
+  commentId: M:Webefinity.Switch.ArgumentsBuilder.#ctor
+  name.vb: New()
+  fullName: Webefinity.Switch.ArgumentsBuilder.ArgumentsBuilder()
+  fullName.vb: Webefinity.Switch.ArgumentsBuilder.New()
+  nameWithType: ArgumentsBuilder.ArgumentsBuilder()
+  nameWithType.vb: ArgumentsBuilder.New()
+- uid: Webefinity.Switch.ArgumentsBuilder.#ctor*
+  name: ArgumentsBuilder
+  href: api/Webefinity.Switch.ArgumentsBuilder.html#Webefinity_Switch_ArgumentsBuilder__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentsBuilder.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentsBuilder.ArgumentsBuilder
+  fullName.vb: Webefinity.Switch.ArgumentsBuilder.New
+  nameWithType: ArgumentsBuilder.ArgumentsBuilder
+  nameWithType.vb: ArgumentsBuilder.New
+- uid: Webefinity.Switch.ArgumentsBuilder.Add(System.String,System.Nullable{System.Char},System.Boolean)
+  name: Add(string, char?, bool)
+  href: api/Webefinity.Switch.ArgumentsBuilder.html#Webefinity_Switch_ArgumentsBuilder_Add_System_String_System_Nullable_System_Char__System_Boolean_
+  commentId: M:Webefinity.Switch.ArgumentsBuilder.Add(System.String,System.Nullable{System.Char},System.Boolean)
+  name.vb: Add(String, Char?, Boolean)
+  fullName: Webefinity.Switch.ArgumentsBuilder.Add(string, char?, bool)
+  fullName.vb: Webefinity.Switch.ArgumentsBuilder.Add(String, Char?, Boolean)
+  nameWithType: ArgumentsBuilder.Add(string, char?, bool)
+  nameWithType.vb: ArgumentsBuilder.Add(String, Char?, Boolean)
+- uid: Webefinity.Switch.ArgumentsBuilder.Add*
+  name: Add
+  href: api/Webefinity.Switch.ArgumentsBuilder.html#Webefinity_Switch_ArgumentsBuilder_Add_
+  commentId: Overload:Webefinity.Switch.ArgumentsBuilder.Add
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentsBuilder.Add
+  nameWithType: ArgumentsBuilder.Add
+- uid: Webefinity.Switch.ArgumentsBuilder.Build
+  name: Build()
+  href: api/Webefinity.Switch.ArgumentsBuilder.html#Webefinity_Switch_ArgumentsBuilder_Build
+  commentId: M:Webefinity.Switch.ArgumentsBuilder.Build
+  fullName: Webefinity.Switch.ArgumentsBuilder.Build()
+  nameWithType: ArgumentsBuilder.Build()
+- uid: Webefinity.Switch.ArgumentsBuilder.Build*
+  name: Build
+  href: api/Webefinity.Switch.ArgumentsBuilder.html#Webefinity_Switch_ArgumentsBuilder_Build_
+  commentId: Overload:Webefinity.Switch.ArgumentsBuilder.Build
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentsBuilder.Build
+  nameWithType: ArgumentsBuilder.Build
+- uid: Webefinity.Switch.ArgumentsBuilder.SetArguments(System.String[])
+  name: SetArguments(params string[])
+  href: api/Webefinity.Switch.ArgumentsBuilder.html#Webefinity_Switch_ArgumentsBuilder_SetArguments_System_String___
+  commentId: M:Webefinity.Switch.ArgumentsBuilder.SetArguments(System.String[])
+  name.vb: SetArguments(ParamArray String())
+  fullName: Webefinity.Switch.ArgumentsBuilder.SetArguments(params string[])
+  fullName.vb: Webefinity.Switch.ArgumentsBuilder.SetArguments(ParamArray String())
+  nameWithType: ArgumentsBuilder.SetArguments(params string[])
+  nameWithType.vb: ArgumentsBuilder.SetArguments(ParamArray String())
+- uid: Webefinity.Switch.ArgumentsBuilder.SetArguments*
+  name: SetArguments
+  href: api/Webefinity.Switch.ArgumentsBuilder.html#Webefinity_Switch_ArgumentsBuilder_SetArguments_
+  commentId: Overload:Webefinity.Switch.ArgumentsBuilder.SetArguments
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentsBuilder.SetArguments
+  nameWithType: ArgumentsBuilder.SetArguments
+- uid: Webefinity.Switch.ArgumentsHandler
+  name: ArgumentsHandler
+  href: api/Webefinity.Switch.ArgumentsHandler.html
+  commentId: T:Webefinity.Switch.ArgumentsHandler
+  fullName: Webefinity.Switch.ArgumentsHandler
+  nameWithType: ArgumentsHandler
+- uid: Webefinity.Switch.ArgumentsHandler.#ctor(System.String[],System.Collections.Generic.IReadOnlyCollection{Webefinity.Switch.ArgumentOption})
+  name: ArgumentsHandler(string[], IReadOnlyCollection<ArgumentOption>)
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler__ctor_System_String___System_Collections_Generic_IReadOnlyCollection_Webefinity_Switch_ArgumentOption__
+  commentId: M:Webefinity.Switch.ArgumentsHandler.#ctor(System.String[],System.Collections.Generic.IReadOnlyCollection{Webefinity.Switch.ArgumentOption})
+  name.vb: New(String(), IReadOnlyCollection(Of ArgumentOption))
+  fullName: Webefinity.Switch.ArgumentsHandler.ArgumentsHandler(string[], System.Collections.Generic.IReadOnlyCollection<Webefinity.Switch.ArgumentOption>)
+  fullName.vb: Webefinity.Switch.ArgumentsHandler.New(String(), System.Collections.Generic.IReadOnlyCollection(Of Webefinity.Switch.ArgumentOption))
+  nameWithType: ArgumentsHandler.ArgumentsHandler(string[], IReadOnlyCollection<ArgumentOption>)
+  nameWithType.vb: ArgumentsHandler.New(String(), IReadOnlyCollection(Of ArgumentOption))
+- uid: Webefinity.Switch.ArgumentsHandler.#ctor*
+  name: ArgumentsHandler
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentsHandler.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentsHandler.ArgumentsHandler
+  fullName.vb: Webefinity.Switch.ArgumentsHandler.New
+  nameWithType: ArgumentsHandler.ArgumentsHandler
+  nameWithType.vb: ArgumentsHandler.New
+- uid: Webefinity.Switch.ArgumentsHandler.Errors
+  name: Errors
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler_Errors
+  commentId: P:Webefinity.Switch.ArgumentsHandler.Errors
+  fullName: Webefinity.Switch.ArgumentsHandler.Errors
+  nameWithType: ArgumentsHandler.Errors
+- uid: Webefinity.Switch.ArgumentsHandler.Errors*
+  name: Errors
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler_Errors_
+  commentId: Overload:Webefinity.Switch.ArgumentsHandler.Errors
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentsHandler.Errors
+  nameWithType: ArgumentsHandler.Errors
+- uid: Webefinity.Switch.ArgumentsHandler.GetValue*
+  name: GetValue
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler_GetValue_
+  commentId: Overload:Webefinity.Switch.ArgumentsHandler.GetValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentsHandler.GetValue
+  nameWithType: ArgumentsHandler.GetValue
+- uid: Webefinity.Switch.ArgumentsHandler.GetValue``1(System.String)
+  name: GetValue<T>(string)
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler_GetValue__1_System_String_
+  commentId: M:Webefinity.Switch.ArgumentsHandler.GetValue``1(System.String)
+  name.vb: GetValue(Of T)(String)
+  fullName: Webefinity.Switch.ArgumentsHandler.GetValue<T>(string)
+  fullName.vb: Webefinity.Switch.ArgumentsHandler.GetValue(Of T)(String)
+  nameWithType: ArgumentsHandler.GetValue<T>(string)
+  nameWithType.vb: ArgumentsHandler.GetValue(Of T)(String)
+- uid: Webefinity.Switch.ArgumentsHandler.IsValid
+  name: IsValid
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler_IsValid
+  commentId: P:Webefinity.Switch.ArgumentsHandler.IsValid
+  fullName: Webefinity.Switch.ArgumentsHandler.IsValid
+  nameWithType: ArgumentsHandler.IsValid
+- uid: Webefinity.Switch.ArgumentsHandler.IsValid*
+  name: IsValid
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler_IsValid_
+  commentId: Overload:Webefinity.Switch.ArgumentsHandler.IsValid
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentsHandler.IsValid
+  nameWithType: ArgumentsHandler.IsValid
+- uid: Webefinity.Switch.ArgumentsHandler.Usage(System.String,System.String,System.Boolean,System.Action{System.String})
+  name: Usage(string, string, bool, Action<string>?)
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler_Usage_System_String_System_String_System_Boolean_System_Action_System_String__
+  commentId: M:Webefinity.Switch.ArgumentsHandler.Usage(System.String,System.String,System.Boolean,System.Action{System.String})
+  name.vb: Usage(String, String, Boolean, Action(Of String))
+  fullName: Webefinity.Switch.ArgumentsHandler.Usage(string, string, bool, System.Action<string>?)
+  fullName.vb: Webefinity.Switch.ArgumentsHandler.Usage(String, String, Boolean, System.Action(Of String))
+  nameWithType: ArgumentsHandler.Usage(string, string, bool, Action<string>?)
+  nameWithType.vb: ArgumentsHandler.Usage(String, String, Boolean, Action(Of String))
+- uid: Webefinity.Switch.ArgumentsHandler.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.ArgumentsHandler.html#Webefinity_Switch_ArgumentsHandler_Usage_
+  commentId: Overload:Webefinity.Switch.ArgumentsHandler.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentsHandler.Usage
+  nameWithType: ArgumentsHandler.Usage
+- uid: Webefinity.Switch.ArgumentStringProvider
+  name: ArgumentStringProvider
+  href: api/Webefinity.Switch.ArgumentStringProvider.html
+  commentId: T:Webefinity.Switch.ArgumentStringProvider
+  fullName: Webefinity.Switch.ArgumentStringProvider
+  nameWithType: ArgumentStringProvider
+- uid: Webefinity.Switch.ArgumentStringProvider.#ctor(System.String)
+  name: ArgumentStringProvider(string?)
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider__ctor_System_String_
+  commentId: M:Webefinity.Switch.ArgumentStringProvider.#ctor(System.String)
+  name.vb: New(String)
+  fullName: Webefinity.Switch.ArgumentStringProvider.ArgumentStringProvider(string?)
+  fullName.vb: Webefinity.Switch.ArgumentStringProvider.New(String)
+  nameWithType: ArgumentStringProvider.ArgumentStringProvider(string?)
+  nameWithType.vb: ArgumentStringProvider.New(String)
+- uid: Webefinity.Switch.ArgumentStringProvider.#ctor*
+  name: ArgumentStringProvider
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider__ctor_
+  commentId: Overload:Webefinity.Switch.ArgumentStringProvider.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ArgumentStringProvider.ArgumentStringProvider
+  fullName.vb: Webefinity.Switch.ArgumentStringProvider.New
+  nameWithType: ArgumentStringProvider.ArgumentStringProvider
+  nameWithType.vb: ArgumentStringProvider.New
+- uid: Webefinity.Switch.ArgumentStringProvider.DefaultValue
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_DefaultValue
+  commentId: P:Webefinity.Switch.ArgumentStringProvider.DefaultValue
+  fullName: Webefinity.Switch.ArgumentStringProvider.DefaultValue
+  nameWithType: ArgumentStringProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentStringProvider.DefaultValue*
+  name: DefaultValue
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_DefaultValue_
+  commentId: Overload:Webefinity.Switch.ArgumentStringProvider.DefaultValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentStringProvider.DefaultValue
+  nameWithType: ArgumentStringProvider.DefaultValue
+- uid: Webefinity.Switch.ArgumentStringProvider.Set(System.String)
+  name: Set(string?)
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_Set_System_String_
+  commentId: M:Webefinity.Switch.ArgumentStringProvider.Set(System.String)
+  name.vb: Set(String)
+  fullName: Webefinity.Switch.ArgumentStringProvider.Set(string?)
+  fullName.vb: Webefinity.Switch.ArgumentStringProvider.Set(String)
+  nameWithType: ArgumentStringProvider.Set(string?)
+  nameWithType.vb: ArgumentStringProvider.Set(String)
+- uid: Webefinity.Switch.ArgumentStringProvider.Set*
+  name: Set
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_Set_
+  commentId: Overload:Webefinity.Switch.ArgumentStringProvider.Set
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentStringProvider.Set
+  nameWithType: ArgumentStringProvider.Set
+- uid: Webefinity.Switch.ArgumentStringProvider.Usage(System.Action{System.String})
+  name: Usage(Action<string>)
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_Usage_System_Action_System_String__
+  commentId: M:Webefinity.Switch.ArgumentStringProvider.Usage(System.Action{System.String})
+  name.vb: Usage(Action(Of String))
+  fullName: Webefinity.Switch.ArgumentStringProvider.Usage(System.Action<string>)
+  fullName.vb: Webefinity.Switch.ArgumentStringProvider.Usage(System.Action(Of String))
+  nameWithType: ArgumentStringProvider.Usage(Action<string>)
+  nameWithType.vb: ArgumentStringProvider.Usage(Action(Of String))
+- uid: Webefinity.Switch.ArgumentStringProvider.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_Usage_
+  commentId: Overload:Webefinity.Switch.ArgumentStringProvider.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentStringProvider.Usage
+  nameWithType: ArgumentStringProvider.Usage
+- uid: Webefinity.Switch.ArgumentStringProvider.Value
+  name: Value
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_Value
+  commentId: P:Webefinity.Switch.ArgumentStringProvider.Value
+  fullName: Webefinity.Switch.ArgumentStringProvider.Value
+  nameWithType: ArgumentStringProvider.Value
+- uid: Webefinity.Switch.ArgumentStringProvider.Value*
+  name: Value
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_Value_
+  commentId: Overload:Webefinity.Switch.ArgumentStringProvider.Value
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentStringProvider.Value
+  nameWithType: ArgumentStringProvider.Value
+- uid: Webefinity.Switch.ArgumentStringProvider.WasSet
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_WasSet
+  commentId: P:Webefinity.Switch.ArgumentStringProvider.WasSet
+  fullName: Webefinity.Switch.ArgumentStringProvider.WasSet
+  nameWithType: ArgumentStringProvider.WasSet
+- uid: Webefinity.Switch.ArgumentStringProvider.WasSet*
+  name: WasSet
+  href: api/Webefinity.Switch.ArgumentStringProvider.html#Webefinity_Switch_ArgumentStringProvider_WasSet_
+  commentId: Overload:Webefinity.Switch.ArgumentStringProvider.WasSet
+  isSpec: "True"
+  fullName: Webefinity.Switch.ArgumentStringProvider.WasSet
+  nameWithType: ArgumentStringProvider.WasSet
+- uid: Webefinity.Switch.IValueProvider
+  name: IValueProvider
+  href: api/Webefinity.Switch.IValueProvider.html
+  commentId: T:Webefinity.Switch.IValueProvider
+  fullName: Webefinity.Switch.IValueProvider
+  nameWithType: IValueProvider
+- uid: Webefinity.Switch.IValueProvider.DefaultValue
+  name: DefaultValue
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_DefaultValue
+  commentId: P:Webefinity.Switch.IValueProvider.DefaultValue
+  fullName: Webefinity.Switch.IValueProvider.DefaultValue
+  nameWithType: IValueProvider.DefaultValue
+- uid: Webefinity.Switch.IValueProvider.DefaultValue*
+  name: DefaultValue
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_DefaultValue_
+  commentId: Overload:Webefinity.Switch.IValueProvider.DefaultValue
+  isSpec: "True"
+  fullName: Webefinity.Switch.IValueProvider.DefaultValue
+  nameWithType: IValueProvider.DefaultValue
+- uid: Webefinity.Switch.IValueProvider.Set(System.String)
+  name: Set(string?)
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_Set_System_String_
+  commentId: M:Webefinity.Switch.IValueProvider.Set(System.String)
+  name.vb: Set(String)
+  fullName: Webefinity.Switch.IValueProvider.Set(string?)
+  fullName.vb: Webefinity.Switch.IValueProvider.Set(String)
+  nameWithType: IValueProvider.Set(string?)
+  nameWithType.vb: IValueProvider.Set(String)
+- uid: Webefinity.Switch.IValueProvider.Set*
+  name: Set
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_Set_
+  commentId: Overload:Webefinity.Switch.IValueProvider.Set
+  isSpec: "True"
+  fullName: Webefinity.Switch.IValueProvider.Set
+  nameWithType: IValueProvider.Set
+- uid: Webefinity.Switch.IValueProvider.Usage(System.Action{System.String})
+  name: Usage(Action<string>)
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_Usage_System_Action_System_String__
+  commentId: M:Webefinity.Switch.IValueProvider.Usage(System.Action{System.String})
+  name.vb: Usage(Action(Of String))
+  fullName: Webefinity.Switch.IValueProvider.Usage(System.Action<string>)
+  fullName.vb: Webefinity.Switch.IValueProvider.Usage(System.Action(Of String))
+  nameWithType: IValueProvider.Usage(Action<string>)
+  nameWithType.vb: IValueProvider.Usage(Action(Of String))
+- uid: Webefinity.Switch.IValueProvider.Usage*
+  name: Usage
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_Usage_
+  commentId: Overload:Webefinity.Switch.IValueProvider.Usage
+  isSpec: "True"
+  fullName: Webefinity.Switch.IValueProvider.Usage
+  nameWithType: IValueProvider.Usage
+- uid: Webefinity.Switch.IValueProvider.Value
+  name: Value
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_Value
+  commentId: P:Webefinity.Switch.IValueProvider.Value
+  fullName: Webefinity.Switch.IValueProvider.Value
+  nameWithType: IValueProvider.Value
+- uid: Webefinity.Switch.IValueProvider.Value*
+  name: Value
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_Value_
+  commentId: Overload:Webefinity.Switch.IValueProvider.Value
+  isSpec: "True"
+  fullName: Webefinity.Switch.IValueProvider.Value
+  nameWithType: IValueProvider.Value
+- uid: Webefinity.Switch.IValueProvider.WasSet
+  name: WasSet
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_WasSet
+  commentId: P:Webefinity.Switch.IValueProvider.WasSet
+  fullName: Webefinity.Switch.IValueProvider.WasSet
+  nameWithType: IValueProvider.WasSet
+- uid: Webefinity.Switch.IValueProvider.WasSet*
+  name: WasSet
+  href: api/Webefinity.Switch.IValueProvider.html#Webefinity_Switch_IValueProvider_WasSet_
+  commentId: Overload:Webefinity.Switch.IValueProvider.WasSet
+  isSpec: "True"
+  fullName: Webefinity.Switch.IValueProvider.WasSet
+  nameWithType: IValueProvider.WasSet
+- uid: Webefinity.Switch.ValidationResult
+  name: ValidationResult
+  href: api/Webefinity.Switch.ValidationResult.html
+  commentId: T:Webefinity.Switch.ValidationResult
+  fullName: Webefinity.Switch.ValidationResult
+  nameWithType: ValidationResult
+- uid: Webefinity.Switch.ValidationResult.#ctor(System.Boolean,System.String[])
+  name: ValidationResult(bool, params string[])
+  href: api/Webefinity.Switch.ValidationResult.html#Webefinity_Switch_ValidationResult__ctor_System_Boolean_System_String___
+  commentId: M:Webefinity.Switch.ValidationResult.#ctor(System.Boolean,System.String[])
+  name.vb: New(Boolean, ParamArray String())
+  fullName: Webefinity.Switch.ValidationResult.ValidationResult(bool, params string[])
+  fullName.vb: Webefinity.Switch.ValidationResult.New(Boolean, ParamArray String())
+  nameWithType: ValidationResult.ValidationResult(bool, params string[])
+  nameWithType.vb: ValidationResult.New(Boolean, ParamArray String())
+- uid: Webefinity.Switch.ValidationResult.#ctor*
+  name: ValidationResult
+  href: api/Webefinity.Switch.ValidationResult.html#Webefinity_Switch_ValidationResult__ctor_
+  commentId: Overload:Webefinity.Switch.ValidationResult.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: Webefinity.Switch.ValidationResult.ValidationResult
+  fullName.vb: Webefinity.Switch.ValidationResult.New
+  nameWithType: ValidationResult.ValidationResult
+  nameWithType.vb: ValidationResult.New
+- uid: Webefinity.Switch.ValidationResult.Combine(Webefinity.Switch.ValidationResult[])
+  name: Combine(params ValidationResult[])
+  href: api/Webefinity.Switch.ValidationResult.html#Webefinity_Switch_ValidationResult_Combine_Webefinity_Switch_ValidationResult___
+  commentId: M:Webefinity.Switch.ValidationResult.Combine(Webefinity.Switch.ValidationResult[])
+  name.vb: Combine(ParamArray ValidationResult())
+  fullName: Webefinity.Switch.ValidationResult.Combine(params Webefinity.Switch.ValidationResult[])
+  fullName.vb: Webefinity.Switch.ValidationResult.Combine(ParamArray Webefinity.Switch.ValidationResult())
+  nameWithType: ValidationResult.Combine(params ValidationResult[])
+  nameWithType.vb: ValidationResult.Combine(ParamArray ValidationResult())
+- uid: Webefinity.Switch.ValidationResult.Combine*
+  name: Combine
+  href: api/Webefinity.Switch.ValidationResult.html#Webefinity_Switch_ValidationResult_Combine_
+  commentId: Overload:Webefinity.Switch.ValidationResult.Combine
+  isSpec: "True"
+  fullName: Webefinity.Switch.ValidationResult.Combine
+  nameWithType: ValidationResult.Combine
+- uid: Webefinity.Switch.ValidationResult.Errors
+  name: Errors
+  href: api/Webefinity.Switch.ValidationResult.html#Webefinity_Switch_ValidationResult_Errors
+  commentId: P:Webefinity.Switch.ValidationResult.Errors
+  fullName: Webefinity.Switch.ValidationResult.Errors
+  nameWithType: ValidationResult.Errors
+- uid: Webefinity.Switch.ValidationResult.Errors*
+  name: Errors
+  href: api/Webefinity.Switch.ValidationResult.html#Webefinity_Switch_ValidationResult_Errors_
+  commentId: Overload:Webefinity.Switch.ValidationResult.Errors
+  isSpec: "True"
+  fullName: Webefinity.Switch.ValidationResult.Errors
+  nameWithType: ValidationResult.Errors
+- uid: Webefinity.Switch.ValidationResult.IsValid
+  name: IsValid
+  href: api/Webefinity.Switch.ValidationResult.html#Webefinity_Switch_ValidationResult_IsValid
+  commentId: P:Webefinity.Switch.ValidationResult.IsValid
+  fullName: Webefinity.Switch.ValidationResult.IsValid
+  nameWithType: ValidationResult.IsValid
+- uid: Webefinity.Switch.ValidationResult.IsValid*
+  name: IsValid
+  href: api/Webefinity.Switch.ValidationResult.html#Webefinity_Switch_ValidationResult_IsValid_
+  commentId: Overload:Webefinity.Switch.ValidationResult.IsValid
+  isSpec: "True"
+  fullName: Webefinity.Switch.ValidationResult.IsValid
+  nameWithType: ValidationResult.IsValid
