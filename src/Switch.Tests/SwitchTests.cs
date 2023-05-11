@@ -218,5 +218,18 @@ namespace Switch.Tests
 
         }
 
+        [TestMethod]
+        public void Default()
+        {
+            var builder = new ArgumentsBuilder();
+            builder.SetArguments("new", "--flag");
+            builder.Add("command", 'c', true).AcceptString();
+            builder.Add("flag", 'f').AcceptFlag();
+
+            var handler = builder.Build();
+            Assert.AreEqual("new", handler.GetValue<string>("command"));
+            Assert.AreEqual(true, handler.GetValue<bool>("flag"));
+        }
+
     }
 }

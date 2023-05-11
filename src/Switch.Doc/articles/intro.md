@@ -11,7 +11,7 @@ It just parses a command list, and it is intended that is all it will ever do.
 1.  Install the switch package onto your project:
 
 ``` powershell
-dotnet add package Webefinity.Switch
+dotnet add package webefinity-switch
 ```
 
 2.  Construct an argument builder.
