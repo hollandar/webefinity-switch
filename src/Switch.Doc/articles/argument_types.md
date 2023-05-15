@@ -17,7 +17,7 @@ The short version if the flag passed with "-" and a single character.  It is opt
 
 ## Option Adjusters
 
-You can adjust an argument option once it is added by marking it to Accept types, or the following:
+You can adjust an argument option once it is added by marking it to Accept types, provide a description for the option or make it required.
 
 ### MakeRequired
 

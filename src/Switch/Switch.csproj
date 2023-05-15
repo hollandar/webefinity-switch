@@ -16,7 +16,7 @@
 	  <RepositoryType>git</RepositoryType>
 	  <PackageTags>command line;arguments</PackageTags>
 	  <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
-	  <Version>1.0.1</Version>
+	  <Version>$(PRODUCT_VERSION)</Version>
   </PropertyGroup>
 
   <ItemGroup>

@@ -39,11 +39,17 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     
+    - name: JSON to variables
+      uses: antifree/json-to-variables@v1.0.1
+      with:
+        filename: 'environment.json'
+        prefix: PRODUCT
+
     - name: Rebuild in Release
       run: dotnet build --no-restore --configuration Release
     
     - name: Publish NuGet Package
-      run: find src/Switch/bin/Release -name 'webefinity*.nupkg' | xargs -i dotnet nuget push {} -k ${{ secrets.NUGET_TOKEN }} -s https://api.nuget.org/v3/index.json
+      run: find src -name '*.nupkg' | grep 'bin/Release/webefinity' | xargs -i dotnet nuget push {} -k ${{ secrets.NUGET_TOKEN }} -s https://api.nuget.org/v3/index.json --skip-duplicates
 
     - run: dotnet tool update -g docfx
 
