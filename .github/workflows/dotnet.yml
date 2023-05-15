@@ -49,7 +49,7 @@ jobs:
       run: dotnet build --no-restore --configuration Release
     
     - name: Publish NuGet Package
-      run: find src -name '*.nupkg' | grep 'bin/Release/webefinity' | xargs -i dotnet nuget push {} -k ${{ secrets.NUGET_TOKEN }} -s https://api.nuget.org/v3/index.json --skip-duplicates
+      run: find src -name '*.nupkg' | grep 'bin/Release/webefinity' | xargs -i dotnet nuget push {} -k ${{ secrets.NUGET_TOKEN }} -s https://api.nuget.org/v3/index.json --skip-duplicate
 
     - run: dotnet tool update -g docfx
 
