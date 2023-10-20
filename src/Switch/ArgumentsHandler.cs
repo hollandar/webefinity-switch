@@ -32,13 +32,16 @@ namespace Webefinity.Switch
             int i = 0;
 
             // Handle the default argument
-            var arg0 = args[i];
-            var isSwitch = options.Any(r => r.IsMatch(arg0));
-            if (!isSwitch && options.Any(r => r.Default))
+            if (options.Any(r => r.Default) && args.Length > 0)
             {
-                var option = options.Single(r => r.Default);
-                validationResult.Combine(option.ValueProvider!.Set(arg0));
-                i++;
+                var arg0 = args[i];
+                var isSwitch = options.Any(r => r.IsMatch(arg0));
+                if (!isSwitch && options.Any(r => r.Default))
+                {
+                    var option = options.Single(r => r.Default);
+                    validationResult.Combine(option.ValueProvider!.Set(arg0));
+                    i++;
+                }
             }
 
             // And now the rest
