@@ -36,7 +36,7 @@ namespace Webefinity.Switch
         {
             this.wasSet = true;
 
-            if (Enum.TryParse(typeof(TEnum), value, out var result))
+            if (Enum.TryParse(typeof(TEnum), value, true, out var result))
             {
                 this.value = result;
             }

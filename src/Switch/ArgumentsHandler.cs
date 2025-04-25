@@ -131,13 +131,27 @@ namespace Webefinity.Switch
         }
 
         /// <summary>
+        /// Determing if an option was set on the command line at all?
+        /// </summary>
+        /// <param name="longOption">The long version of the option flag, without the leading --.</param>
+        public bool WasSet(string longOption)
+        {
+            var option = this.options.Where(r => r.Long == longOption).FirstOrDefault();
+            if (option != null)
+            {
+                return option.ValueProvider!.WasSet;
+            }
+            return false;
+        }
+
+        /// <summary>
         /// Report the usage using a logger, or default to Console.Write as the logger.
         /// </summary>
         /// <param name="name">The name of the application.</param>
         /// <param name="version">The version of the application.</param>
         /// <param name="showErrors">Should errors be logged, or suppressed?</param>
         /// <param name="log">The logger, or null to use Console.Writeline</param>
-        public void Usage(string name, string version, bool showErrors = true, Action<string>? log = null)
+        public void Usage(string name, string version, bool showErrors = true, Action<string>? log = null, string[]? additionalErrors = null)
         {
             if (log == null) log = e => { Console.Write(e); };
 
@@ -163,10 +177,11 @@ namespace Webefinity.Switch
             }
             log("\n");
 
-            if (showErrors && !IsValid)
+            if (showErrors && (!IsValid || additionalErrors is not null))
             {
+                var allErrors = Errors.Union(additionalErrors ?? Array.Empty<string>()).ToArray();
                 log("Errors:\n");
-                foreach (var error in Errors)
+                foreach (var error in allErrors)
                 {
                     log($" * {error}\n");
                 }
